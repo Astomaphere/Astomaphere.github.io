@@ -6,5 +6,14 @@
 
 ## About the Developer
 
-* 个人`QQ3269798080`欢迎和我聊天！
-  天天发QQ空间的废话星大王，喜欢宅家玩游戏，还喜欢编程，但是技术特别烂！努力学习中……
+* 天天发QQ空间的废话星大王，喜欢宅家玩游戏，还喜欢编程，但是技术特别烂！努力学习中……
+* 下面是一些我的个人主页：
+  - B站：[魔法少女_荒竹姬的个人主页](https://space.bilibili.com/19442203)
+  - Steam：Fracture Lady
+  - QQ：3269798080[→跳转链接←](https://qm.qq.com/cgi-bin/qm/qr?k=FYPbLgsRsadjOCZCFXhSZZrFepKh4-4J&noverify=0)
+  - 微信公众号：竹竹的树屋
+  - To be Updated
+
+---
+
+反馈&闲聊群：794333369，[点击这里直接跳转QQ](https://qm.qq.com/cgi-bin/qm/qr?k=9gBrOCiXW0br0-In8tpMzlH2GB23kav3&authKey=kvBMcG6VtCYLFWtV3ZjCpV+1hMrIwgGAypxPaYmWOo19LdisbrGuZt6kdpY7uJqb&noverify=0)
