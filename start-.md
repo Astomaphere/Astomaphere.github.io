@@ -6,8 +6,12 @@
 
 ## 第二步：开始使用吧！
 
-?> **Tips: ** 为了防止广告等骚扰信息，所有好友申请和加群申请都是手动通过，所以会有一定延迟，请耐心等待。
+?> **注意：** 为了防止广告等骚扰信息，所有好友申请和加群申请都是手动通过，所以会有一定延迟，请耐心等待。
 
 ---
+
+[←首页](README.md)
+
+[指令→](control-.md)
 
 反馈&闲聊群：794333369，[点击这里直接跳转QQ](https://qm.qq.com/cgi-bin/qm/qr?k=9gBrOCiXW0br0-In8tpMzlH2GB23kav3&authKey=kvBMcG6VtCYLFWtV3ZjCpV+1hMrIwgGAypxPaYmWOo19LdisbrGuZt6kdpY7uJqb&noverify=0)
