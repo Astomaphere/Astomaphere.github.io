@@ -10,8 +10,6 @@
 
 ---
 
-[←首页](README.md)
 
-[指令→](control-.md)
 
 反馈&闲聊群：794333369，[点击这里直接跳转QQ](https://qm.qq.com/cgi-bin/qm/qr?k=9gBrOCiXW0br0-In8tpMzlH2GB23kav3&authKey=kvBMcG6VtCYLFWtV3ZjCpV+1hMrIwgGAypxPaYmWOo19LdisbrGuZt6kdpY7uJqb&noverify=0)
